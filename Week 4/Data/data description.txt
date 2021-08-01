@@ -1,0 +1,3 @@
+bdg_pop.csv is a dataset containing total populations in each Kecamatan/Neighborhood in Bandung, taken from http://data.bandung.go.id/dataset/jumlah-penduduk-berdasarkan-kelompok-umur/resource/ddef7c33-dc17-4a64-9d00-4eac7c8dcb7f .
+
+bdg_venues is a dataset containing venues in each Kecamatan/Neighborhood in Bandung, taken from FourSquare API
